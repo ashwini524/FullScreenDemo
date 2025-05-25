@@ -40,6 +40,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+<!--        can use this         app:controller_layout_id="@layout/player_controls"
+-->
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/player_controller_fullscreen_btn"
             android:layout_width="wrap_content"
